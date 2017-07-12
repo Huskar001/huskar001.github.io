@@ -1,11 +1,11 @@
 # Site settings
-name: Less Or More
+name: Huskar's blog
 email: feiqiyun@126.com
 author: Huskar
-resume_site: http://www.hifreud.com/Resume.io/
+resume_site: https://github.com/huskar001
 github: https://github.com/huskar001
 baseurl: ''
-description: Actually, less is more!
+description: 记录点滴
 meta_description: 学而不思则罔;思而不学则殆;生命不止;折腾不休
 motto: It's our wits that make us men.
 banner: 学而不思则罔，思而不学则殆。
