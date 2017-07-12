@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to use markdown"
-date:   2017-07-12 11:20:01 +0800
+date:   2017-07-11 11:20:01 +0800
 categories: help
 tag: markdown
 ---
